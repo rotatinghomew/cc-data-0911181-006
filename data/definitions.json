@@ -8,5 +8,25 @@
     "metric": "attendance_events",
     "label": "课次参与",
     "unit": "visit"
+  },
+  {
+    "metric": "participant_people",
+    "label": "参与人数（所选范围去重）",
+    "unit": "learner"
+  },
+  {
+    "metric": "eligible_people",
+    "label": "结课资格人数（所选范围去重）",
+    "unit": "learner"
+  },
+  {
+    "metric": "completed_people",
+    "label": "完成人数（至少完成一门，去重）",
+    "unit": "learner"
+  },
+  {
+    "metric": "learner_completion_fraction",
+    "label": "学员完成率（学员口径，非班均）",
+    "unit": "ratio"
   }
 ]

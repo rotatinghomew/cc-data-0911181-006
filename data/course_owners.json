@@ -4,6 +4,10 @@
     "owner": "east"
   },
   {
+    "course": "C0",
+    "owner": "west"
+  },
+  {
     "course": "C1",
     "owner": "east"
   },

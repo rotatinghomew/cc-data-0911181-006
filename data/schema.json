@@ -100,10 +100,22 @@
   },
   "course_owners": {
     "key": [
-      "course"
+      "course",
+      "owner"
     ],
     "required": [
-      "course"
+      "course",
+      "owner"
+    ],
+    "foreign": {}
+  },
+  "term_status": {
+    "key": [
+      "term"
+    ],
+    "required": [
+      "term",
+      "status"
     ],
     "foreign": {}
   }
