@@ -1,0 +1,18 @@
+[
+  {
+    "course": "C0",
+    "owner": "east"
+  },
+  {
+    "course": "C1",
+    "owner": "east"
+  },
+  {
+    "course": "C2",
+    "owner": "west"
+  },
+  {
+    "course": "C3",
+    "owner": "north"
+  }
+]

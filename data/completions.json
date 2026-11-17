@@ -1,0 +1,130 @@
+[
+  {
+    "registration": "R1",
+    "completed": true
+  },
+  {
+    "registration": "R2",
+    "completed": true
+  },
+  {
+    "registration": "R3",
+    "completed": false
+  },
+  {
+    "registration": "R4",
+    "completed": true
+  },
+  {
+    "registration": "R6",
+    "completed": false
+  },
+  {
+    "registration": "R7",
+    "completed": true
+  },
+  {
+    "registration": "R8",
+    "completed": true
+  },
+  {
+    "registration": "R9",
+    "completed": false
+  },
+  {
+    "registration": "R11",
+    "completed": true
+  },
+  {
+    "registration": "R12",
+    "completed": false
+  },
+  {
+    "registration": "R13",
+    "completed": true
+  },
+  {
+    "registration": "R14",
+    "completed": true
+  },
+  {
+    "registration": "R16",
+    "completed": true
+  },
+  {
+    "registration": "R17",
+    "completed": true
+  },
+  {
+    "registration": "R18",
+    "completed": false
+  },
+  {
+    "registration": "R19",
+    "completed": true
+  },
+  {
+    "registration": "R21",
+    "completed": false
+  },
+  {
+    "registration": "R22",
+    "completed": true
+  },
+  {
+    "registration": "R23",
+    "completed": true
+  },
+  {
+    "registration": "R24",
+    "completed": false
+  },
+  {
+    "registration": "R26",
+    "completed": true
+  },
+  {
+    "registration": "R27",
+    "completed": false
+  },
+  {
+    "registration": "R28",
+    "completed": true
+  },
+  {
+    "registration": "R29",
+    "completed": true
+  },
+  {
+    "registration": "R31",
+    "completed": true
+  },
+  {
+    "registration": "R32",
+    "completed": true
+  },
+  {
+    "registration": "R33",
+    "completed": false
+  },
+  {
+    "registration": "R34",
+    "completed": true
+  },
+  {
+    "registration": "R36",
+    "completed": false
+  },
+  {
+    "registration": "R37",
+    "completed": true
+  },
+  {
+    "registration": "R38",
+    "completed": true
+  },
+  {
+    "registration": "R39",
+    "completed": false
+  }
+]

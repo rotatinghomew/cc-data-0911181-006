@@ -1,0 +1,110 @@
+{
+  "courses": {
+    "key": [
+      "course"
+    ],
+    "required": [
+      "course",
+      "directions",
+      "campuses",
+      "term"
+    ],
+    "foreign": {}
+  },
+  "registrations": {
+    "key": [
+      "registration"
+    ],
+    "required": [
+      "registration",
+      "learner",
+      "course",
+      "eligible",
+      "status"
+    ],
+    "foreign": {
+      "course": [
+        "courses",
+        "course"
+      ]
+    }
+  },
+  "visits": {
+    "key": [
+      "visit"
+    ],
+    "required": [
+      "visit",
+      "registration",
+      "session",
+      "present"
+    ],
+    "foreign": {
+      "registration": [
+        "registrations",
+        "registration"
+      ]
+    }
+  },
+  "completions": {
+    "key": [
+      "registration"
+    ],
+    "required": [
+      "registration",
+      "completed"
+    ],
+    "foreign": {
+      "registration": [
+        "registrations",
+        "registration"
+      ]
+    }
+  },
+  "definitions": {
+    "key": [
+      "metric"
+    ],
+    "required": [
+      "metric",
+      "label",
+      "unit"
+    ],
+    "foreign": {}
+  },
+  "views": {
+    "key": [
+      "view"
+    ],
+    "required": [
+      "view",
+      "course",
+      "recipient",
+      "cadence"
+    ],
+    "foreign": {
+      "course": [
+        "courses",
+        "course"
+      ]
+    }
+  },
+  "course_targets": {
+    "key": [
+      "course"
+    ],
+    "required": [
+      "course"
+    ],
+    "foreign": {}
+  },
+  "course_owners": {
+    "key": [
+      "course"
+    ],
+    "required": [
+      "course"
+    ],
+    "foreign": {}
+  }
+}

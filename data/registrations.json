@@ -1,0 +1,282 @@
+[
+  {
+    "registration": "R0",
+    "learner": "L0",
+    "course": "C0",
+    "eligible": false,
+    "status": "withdrawn"
+  },
+  {
+    "registration": "R1",
+    "learner": "L1",
+    "course": "C1",
+    "eligible": true,
+    "status": "active"
+  },
+  {
+    "registration": "R2",
+    "learner": "L2",
+    "course": "C2",
+    "eligible": true,
+    "status": "active"
+  },
+  {
+    "registration": "R3",
+    "learner": "L3",
+    "course": "C3",
+    "eligible": true,
+    "status": "active"
+  },
+  {
+    "registration": "R4",
+    "learner": "L4",
+    "course": "C0",
+    "eligible": true,
+    "status": "active"
+  },
+  {
+    "registration": "R5",
+    "learner": "L5",
+    "course": "C1",
+    "eligible": false,
+    "status": "active"
+  },
+  {
+    "registration": "R6",
+    "learner": "L6",
+    "course": "C2",
+    "eligible": true,
+    "status": "active"
+  },
+  {
+    "registration": "R7",
+    "learner": "L7",
+    "course": "C3",
+    "eligible": true,
+    "status": "withdrawn"
+  },
+  {
+    "registration": "R8",
+    "learner": "L8",
+    "course": "C0",
+    "eligible": true,
+    "status": "active"
+  },
+  {
+    "registration": "R9",
+    "learner": "L9",
+    "course": "C1",
+    "eligible": true,
+    "status": "active"
+  },
+  {
+    "registration": "R10",
+    "learner": "L10",
+    "course": "C2",
+    "eligible": false,
+    "status": "active"
+  },
+  {
+    "registration": "R11",
+    "learner": "L11",
+    "course": "C3",
+    "eligible": true,
+    "status": "active"
+  },
+  {
+    "registration": "R12",
+    "learner": "L12",
+    "course": "C0",
+    "eligible": true,
+    "status": "active"
+  },
+  {
+    "registration": "R13",
+    "learner": "L13",
+    "course": "C1",
+    "eligible": true,
+    "status": "active"
+  },
+  {
+    "registration": "R14",
+    "learner": "L14",
+    "course": "C2",
+    "eligible": true,
+    "status": "withdrawn"
+  },
+  {
+    "registration": "R15",
+    "learner": "L15",
+    "course": "C3",
+    "eligible": false,
+    "status": "active"
+  },
+  {
+    "registration": "R16",
+    "learner": "L16",
+    "course": "C0",
+    "eligible": true,
+    "status": "active"
+  },
+  {
+    "registration": "R17",
+    "learner": "L0",
+    "course": "C1",
+    "eligible": true,
+    "status": "active"
+  },
+  {
+    "registration": "R18",
+    "learner": "L1",
+    "course": "C2",
+    "eligible": true,
+    "status": "active"
+  },
+  {
+    "registration": "R19",
+    "learner": "L2",
+    "course": "C3",
+    "eligible": true,
+    "status": "active"
+  },
+  {
+    "registration": "R20",
+    "learner": "L3",
+    "course": "C0",
+    "eligible": false,
+    "status": "active"
+  },
+  {
+    "registration": "R21",
+    "learner": "L4",
+    "course": "C1",
+    "eligible": true,
+    "status": "withdrawn"
+  },
+  {
+    "registration": "R22",
+    "learner": "L5",
+    "course": "C2",
+    "eligible": true,
+    "status": "active"
+  },
+  {
+    "registration": "R23",
+    "learner": "L6",
+    "course": "C3",
+    "eligible": true,
+    "status": "active"
+  },
+  {
+    "registration": "R24",
+    "learner": "L7",
+    "course": "C0",
+    "eligible": true,
+    "status": "active"
+  },
+  {
+    "registration": "R25",
+    "learner": "L8",
+    "course": "C1",
+    "eligible": false,
+    "status": "active"
+  },
+  {
+    "registration": "R26",
+    "learner": "L9",
+    "course": "C2",
+    "eligible": true,
+    "status": "active"
+  },
+  {
+    "registration": "R27",
+    "learner": "L10",
+    "course": "C3",
+    "eligible": true,
+    "status": "active"
+  },
+  {
+    "registration": "R28",
+    "learner": "L11",
+    "course": "C0",
+    "eligible": true,
+    "status": "withdrawn"
+  },
+  {
+    "registration": "R29",
+    "learner": "L12",
+    "course": "C1",
+    "eligible": true,
+    "status": "active"
+  },
+  {
+    "registration": "R30",
+    "learner": "L13",
+    "course": "C2",
+    "eligible": false,
+    "status": "active"
+  },
+  {
+    "registration": "R31",
+    "learner": "L14",
+    "course": "C3",
+    "eligible": true,
+    "status": "active"
+  },
+  {
+    "registration": "R32",
+    "learner": "L15",
+    "course": "C0",
+    "eligible": true,
+    "status": "active"
+  },
+  {
+    "registration": "R33",
+    "learner": "L16",
+    "course": "C1",
+    "eligible": true,
+    "status": "active"
+  },
+  {
+    "registration": "R34",
+    "learner": "L0",
+    "course": "C2",
+    "eligible": true,
+    "status": "active"
+  },
+  {
+    "registration": "R35",
+    "learner": "L1",
+    "course": "C3",
+    "eligible": false,
+    "status": "withdrawn"
+  },
+  {
+    "registration": "R36",
+    "learner": "L2",
+    "course": "C0",
+    "eligible": true,
+    "status": "active"
+  },
+  {
+    "registration": "R37",
+    "learner": "L3",
+    "course": "C1",
+    "eligible": true,
+    "status": "active"
+  },
+  {
+    "registration": "R38",
+    "learner": "L4",
+    "course": "C2",
+    "eligible": true,
+    "status": "active"
+  },
+  {
+    "registration": "R39",
+    "learner": "L5",
+    "course": "C3",
+    "eligible": true,
+    "status": "active"
+  }
+]

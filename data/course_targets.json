@@ -1,0 +1,18 @@
+[
+  {
+    "course": "C0",
+    "minimum": 0.9
+  },
+  {
+    "course": "C1",
+    "minimum": 0.9
+  },
+  {
+    "course": "C2",
+    "minimum": 0.9
+  },
+  {
+    "course": "C3",
+    "minimum": 0.9
+  }
+]

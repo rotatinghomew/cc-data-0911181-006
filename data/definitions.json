@@ -1,0 +1,12 @@
+[
+  {
+    "metric": "registered_people",
+    "label": "报名人数",
+    "unit": "learner"
+  },
+  {
+    "metric": "attendance_events",
+    "label": "课次参与",
+    "unit": "visit"
+  }
+]

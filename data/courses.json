@@ -1,0 +1,44 @@
+[
+  {
+    "course": "C0",
+    "directions": [
+      "photo",
+      "digital"
+    ],
+    "campuses": [
+      "east",
+      "west"
+    ],
+    "term": "2026-autumn"
+  },
+  {
+    "course": "C1",
+    "directions": [
+      "art"
+    ],
+    "campuses": [
+      "east"
+    ],
+    "term": "2026-autumn"
+  },
+  {
+    "course": "C2",
+    "directions": [
+      "digital"
+    ],
+    "campuses": [
+      "west"
+    ],
+    "term": "2026-autumn"
+  },
+  {
+    "course": "C3",
+    "directions": [
+      "photo"
+    ],
+    "campuses": [
+      "north"
+    ],
+    "term": "2026-spring"
+  }
+]

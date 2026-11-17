@@ -1,0 +1,962 @@
+[
+  {
+    "visit": "E0-1",
+    "registration": "R0",
+    "session": 1,
+    "present": true
+  },
+  {
+    "visit": "E0-2",
+    "registration": "R0",
+    "session": 2,
+    "present": true
+  },
+  {
+    "visit": "E0-3",
+    "registration": "R0",
+    "session": 3,
+    "present": true
+  },
+  {
+    "visit": "E0-4",
+    "registration": "R0",
+    "session": 4,
+    "present": false
+  },
+  {
+    "visit": "E1-1",
+    "registration": "R1",
+    "session": 1,
+    "present": true
+  },
+  {
+    "visit": "E1-2",
+    "registration": "R1",
+    "session": 2,
+    "present": true
+  },
+  {
+    "visit": "E1-3",
+    "registration": "R1",
+    "session": 3,
+    "present": false
+  },
+  {
+    "visit": "E1-4",
+    "registration": "R1",
+    "session": 4,
+    "present": true
+  },
+  {
+    "visit": "E2-1",
+    "registration": "R2",
+    "session": 1,
+    "present": true
+  },
+  {
+    "visit": "E2-2",
+    "registration": "R2",
+    "session": 2,
+    "present": false
+  },
+  {
+    "visit": "E2-3",
+    "registration": "R2",
+    "session": 3,
+    "present": true
+  },
+  {
+    "visit": "E2-4",
+    "registration": "R2",
+    "session": 4,
+    "present": true
+  },
+  {
+    "visit": "E3-1",
+    "registration": "R3",
+    "session": 1,
+    "present": false
+  },
+  {
+    "visit": "E3-2",
+    "registration": "R3",
+    "session": 2,
+    "present": true
+  },
+  {
+    "visit": "E3-3",
+    "registration": "R3",
+    "session": 3,
+    "present": true
+  },
+  {
+    "visit": "E3-4",
+    "registration": "R3",
+    "session": 4,
+    "present": true
+  },
+  {
+    "visit": "E4-1",
+    "registration": "R4",
+    "session": 1,
+    "present": true
+  },
+  {
+    "visit": "E4-2",
+    "registration": "R4",
+    "session": 2,
+    "present": true
+  },
+  {
+    "visit": "E4-3",
+    "registration": "R4",
+    "session": 3,
+    "present": true
+  },
+  {
+    "visit": "E4-4",
+    "registration": "R4",
+    "session": 4,
+    "present": false
+  },
+  {
+    "visit": "E5-1",
+    "registration": "R5",
+    "session": 1,
+    "present": true
+  },
+  {
+    "visit": "E5-2",
+    "registration": "R5",
+    "session": 2,
+    "present": true
+  },
+  {
+    "visit": "E5-3",
+    "registration": "R5",
+    "session": 3,
+    "present": false
+  },
+  {
+    "visit": "E5-4",
+    "registration": "R5",
+    "session": 4,
+    "present": true
+  },
+  {
+    "visit": "E6-1",
+    "registration": "R6",
+    "session": 1,
+    "present": true
+  },
+  {
+    "visit": "E6-2",
+    "registration": "R6",
+    "session": 2,
+    "present": false
+  },
+  {
+    "visit": "E6-3",
+    "registration": "R6",
+    "session": 3,
+    "present": true
+  },
+  {
+    "visit": "E6-4",
+    "registration": "R6",
+    "session": 4,
+    "present": true
+  },
+  {
+    "visit": "E7-1",
+    "registration": "R7",
+    "session": 1,
+    "present": false
+  },
+  {
+    "visit": "E7-2",
+    "registration": "R7",
+    "session": 2,
+    "present": true
+  },
+  {
+    "visit": "E7-3",
+    "registration": "R7",
+    "session": 3,
+    "present": true
+  },
+  {
+    "visit": "E7-4",
+    "registration": "R7",
+    "session": 4,
+    "present": true
+  },
+  {
+    "visit": "E8-1",
+    "registration": "R8",
+    "session": 1,
+    "present": true
+  },
+  {
+    "visit": "E8-2",
+    "registration": "R8",
+    "session": 2,
+    "present": true
+  },
+  {
+    "visit": "E8-3",
+    "registration": "R8",
+    "session": 3,
+    "present": true
+  },
+  {
+    "visit": "E8-4",
+    "registration": "R8",
+    "session": 4,
+    "present": false
+  },
+  {
+    "visit": "E9-1",
+    "registration": "R9",
+    "session": 1,
+    "present": true
+  },
+  {
+    "visit": "E9-2",
+    "registration": "R9",
+    "session": 2,
+    "present": true
+  },
+  {
+    "visit": "E9-3",
+    "registration": "R9",
+    "session": 3,
+    "present": false
+  },
+  {
+    "visit": "E9-4",
+    "registration": "R9",
+    "session": 4,
+    "present": true
+  },
+  {
+    "visit": "E10-1",
+    "registration": "R10",
+    "session": 1,
+    "present": true
+  },
+  {
+    "visit": "E10-2",
+    "registration": "R10",
+    "session": 2,
+    "present": false
+  },
+  {
+    "visit": "E10-3",
+    "registration": "R10",
+    "session": 3,
+    "present": true
+  },
+  {
+    "visit": "E10-4",
+    "registration": "R10",
+    "session": 4,
+    "present": true
+  },
+  {
+    "visit": "E11-1",
+    "registration": "R11",
+    "session": 1,
+    "present": false
+  },
+  {
+    "visit": "E11-2",
+    "registration": "R11",
+    "session": 2,
+    "present": true
+  },
+  {
+    "visit": "E11-3",
+    "registration": "R11",
+    "session": 3,
+    "present": true
+  },
+  {
+    "visit": "E11-4",
+    "registration": "R11",
+    "session": 4,
+    "present": true
+  },
+  {
+    "visit": "E12-1",
+    "registration": "R12",
+    "session": 1,
+    "present": true
+  },
+  {
+    "visit": "E12-2",
+    "registration": "R12",
+    "session": 2,
+    "present": true
+  },
+  {
+    "visit": "E12-3",
+    "registration": "R12",
+    "session": 3,
+    "present": true
+  },
+  {
+    "visit": "E12-4",
+    "registration": "R12",
+    "session": 4,
+    "present": false
+  },
+  {
+    "visit": "E13-1",
+    "registration": "R13",
+    "session": 1,
+    "present": true
+  },
+  {
+    "visit": "E13-2",
+    "registration": "R13",
+    "session": 2,
+    "present": true
+  },
+  {
+    "visit": "E13-3",
+    "registration": "R13",
+    "session": 3,
+    "present": false
+  },
+  {
+    "visit": "E13-4",
+    "registration": "R13",
+    "session": 4,
+    "present": true
+  },
+  {
+    "visit": "E14-1",
+    "registration": "R14",
+    "session": 1,
+    "present": true
+  },
+  {
+    "visit": "E14-2",
+    "registration": "R14",
+    "session": 2,
+    "present": false
+  },
+  {
+    "visit": "E14-3",
+    "registration": "R14",
+    "session": 3,
+    "present": true
+  },
+  {
+    "visit": "E14-4",
+    "registration": "R14",
+    "session": 4,
+    "present": true
+  },
+  {
+    "visit": "E15-1",
+    "registration": "R15",
+    "session": 1,
+    "present": false
+  },
+  {
+    "visit": "E15-2",
+    "registration": "R15",
+    "session": 2,
+    "present": true
+  },
+  {
+    "visit": "E15-3",
+    "registration": "R15",
+    "session": 3,
+    "present": true
+  },
+  {
+    "visit": "E15-4",
+    "registration": "R15",
+    "session": 4,
+    "present": true
+  },
+  {
+    "visit": "E16-1",
+    "registration": "R16",
+    "session": 1,
+    "present": true
+  },
+  {
+    "visit": "E16-2",
+    "registration": "R16",
+    "session": 2,
+    "present": true
+  },
+  {
+    "visit": "E16-3",
+    "registration": "R16",
+    "session": 3,
+    "present": true
+  },
+  {
+    "visit": "E16-4",
+    "registration": "R16",
+    "session": 4,
+    "present": false
+  },
+  {
+    "visit": "E17-1",
+    "registration": "R17",
+    "session": 1,
+    "present": true
+  },
+  {
+    "visit": "E17-2",
+    "registration": "R17",
+    "session": 2,
+    "present": true
+  },
+  {
+    "visit": "E17-3",
+    "registration": "R17",
+    "session": 3,
+    "present": false
+  },
+  {
+    "visit": "E17-4",
+    "registration": "R17",
+    "session": 4,
+    "present": true
+  },
+  {
+    "visit": "E18-1",
+    "registration": "R18",
+    "session": 1,
+    "present": true
+  },
+  {
+    "visit": "E18-2",
+    "registration": "R18",
+    "session": 2,
+    "present": false
+  },
+  {
+    "visit": "E18-3",
+    "registration": "R18",
+    "session": 3,
+    "present": true
+  },
+  {
+    "visit": "E18-4",
+    "registration": "R18",
+    "session": 4,
+    "present": true
+  },
+  {
+    "visit": "E19-1",
+    "registration": "R19",
+    "session": 1,
+    "present": false
+  },
+  {
+    "visit": "E19-2",
+    "registration": "R19",
+    "session": 2,
+    "present": true
+  },
+  {
+    "visit": "E19-3",
+    "registration": "R19",
+    "session": 3,
+    "present": true
+  },
+  {
+    "visit": "E19-4",
+    "registration": "R19",
+    "session": 4,
+    "present": true
+  },
+  {
+    "visit": "E20-1",
+    "registration": "R20",
+    "session": 1,
+    "present": true
+  },
+  {
+    "visit": "E20-2",
+    "registration": "R20",
+    "session": 2,
+    "present": true
+  },
+  {
+    "visit": "E20-3",
+    "registration": "R20",
+    "session": 3,
+    "present": true
+  },
+  {
+    "visit": "E20-4",
+    "registration": "R20",
+    "session": 4,
+    "present": false
+  },
+  {
+    "visit": "E21-1",
+    "registration": "R21",
+    "session": 1,
+    "present": true
+  },
+  {
+    "visit": "E21-2",
+    "registration": "R21",
+    "session": 2,
+    "present": true
+  },
+  {
+    "visit": "E21-3",
+    "registration": "R21",
+    "session": 3,
+    "present": false
+  },
+  {
+    "visit": "E21-4",
+    "registration": "R21",
+    "session": 4,
+    "present": true
+  },
+  {
+    "visit": "E22-1",
+    "registration": "R22",
+    "session": 1,
+    "present": true
+  },
+  {
+    "visit": "E22-2",
+    "registration": "R22",
+    "session": 2,
+    "present": false
+  },
+  {
+    "visit": "E22-3",
+    "registration": "R22",
+    "session": 3,
+    "present": true
+  },
+  {
+    "visit": "E22-4",
+    "registration": "R22",
+    "session": 4,
+    "present": true
+  },
+  {
+    "visit": "E23-1",
+    "registration": "R23",
+    "session": 1,
+    "present": false
+  },
+  {
+    "visit": "E23-2",
+    "registration": "R23",
+    "session": 2,
+    "present": true
+  },
+  {
+    "visit": "E23-3",
+    "registration": "R23",
+    "session": 3,
+    "present": true
+  },
+  {
+    "visit": "E23-4",
+    "registration": "R23",
+    "session": 4,
+    "present": true
+  },
+  {
+    "visit": "E24-1",
+    "registration": "R24",
+    "session": 1,
+    "present": true
+  },
+  {
+    "visit": "E24-2",
+    "registration": "R24",
+    "session": 2,
+    "present": true
+  },
+  {
+    "visit": "E24-3",
+    "registration": "R24",
+    "session": 3,
+    "present": true
+  },
+  {
+    "visit": "E24-4",
+    "registration": "R24",
+    "session": 4,
+    "present": false
+  },
+  {
+    "visit": "E25-1",
+    "registration": "R25",
+    "session": 1,
+    "present": true
+  },
+  {
+    "visit": "E25-2",
+    "registration": "R25",
+    "session": 2,
+    "present": true
+  },
+  {
+    "visit": "E25-3",
+    "registration": "R25",
+    "session": 3,
+    "present": false
+  },
+  {
+    "visit": "E25-4",
+    "registration": "R25",
+    "session": 4,
+    "present": true
+  },
+  {
+    "visit": "E26-1",
+    "registration": "R26",
+    "session": 1,
+    "present": true
+  },
+  {
+    "visit": "E26-2",
+    "registration": "R26",
+    "session": 2,
+    "present": false
+  },
+  {
+    "visit": "E26-3",
+    "registration": "R26",
+    "session": 3,
+    "present": true
+  },
+  {
+    "visit": "E26-4",
+    "registration": "R26",
+    "session": 4,
+    "present": true
+  },
+  {
+    "visit": "E27-1",
+    "registration": "R27",
+    "session": 1,
+    "present": false
+  },
+  {
+    "visit": "E27-2",
+    "registration": "R27",
+    "session": 2,
+    "present": true
+  },
+  {
+    "visit": "E27-3",
+    "registration": "R27",
+    "session": 3,
+    "present": true
+  },
+  {
+    "visit": "E27-4",
+    "registration": "R27",
+    "session": 4,
+    "present": true
+  },
+  {
+    "visit": "E28-1",
+    "registration": "R28",
+    "session": 1,
+    "present": true
+  },
+  {
+    "visit": "E28-2",
+    "registration": "R28",
+    "session": 2,
+    "present": true
+  },
+  {
+    "visit": "E28-3",
+    "registration": "R28",
+    "session": 3,
+    "present": true
+  },
+  {
+    "visit": "E28-4",
+    "registration": "R28",
+    "session": 4,
+    "present": false
+  },
+  {
+    "visit": "E29-1",
+    "registration": "R29",
+    "session": 1,
+    "present": true
+  },
+  {
+    "visit": "E29-2",
+    "registration": "R29",
+    "session": 2,
+    "present": true
+  },
+  {
+    "visit": "E29-3",
+    "registration": "R29",
+    "session": 3,
+    "present": false
+  },
+  {
+    "visit": "E29-4",
+    "registration": "R29",
+    "session": 4,
+    "present": true
+  },
+  {
+    "visit": "E30-1",
+    "registration": "R30",
+    "session": 1,
+    "present": true
+  },
+  {
+    "visit": "E30-2",
+    "registration": "R30",
+    "session": 2,
+    "present": false
+  },
+  {
+    "visit": "E30-3",
+    "registration": "R30",
+    "session": 3,
+    "present": true
+  },
+  {
+    "visit": "E30-4",
+    "registration": "R30",
+    "session": 4,
+    "present": true
+  },
+  {
+    "visit": "E31-1",
+    "registration": "R31",
+    "session": 1,
+    "present": false
+  },
+  {
+    "visit": "E31-2",
+    "registration": "R31",
+    "session": 2,
+    "present": true
+  },
+  {
+    "visit": "E31-3",
+    "registration": "R31",
+    "session": 3,
+    "present": true
+  },
+  {
+    "visit": "E31-4",
+    "registration": "R31",
+    "session": 4,
+    "present": true
+  },
+  {
+    "visit": "E32-1",
+    "registration": "R32",
+    "session": 1,
+    "present": true
+  },
+  {
+    "visit": "E32-2",
+    "registration": "R32",
+    "session": 2,
+    "present": true
+  },
+  {
+    "visit": "E32-3",
+    "registration": "R32",
+    "session": 3,
+    "present": true
+  },
+  {
+    "visit": "E32-4",
+    "registration": "R32",
+    "session": 4,
+    "present": false
+  },
+  {
+    "visit": "E33-1",
+    "registration": "R33",
+    "session": 1,
+    "present": true
+  },
+  {
+    "visit": "E33-2",
+    "registration": "R33",
+    "session": 2,
+    "present": true
+  },
+  {
+    "visit": "E33-3",
+    "registration": "R33",
+    "session": 3,
+    "present": false
+  },
+  {
+    "visit": "E33-4",
+    "registration": "R33",
+    "session": 4,
+    "present": true
+  },
+  {
+    "visit": "E34-1",
+    "registration": "R34",
+    "session": 1,
+    "present": true
+  },
+  {
+    "visit": "E34-2",
+    "registration": "R34",
+    "session": 2,
+    "present": false
+  },
+  {
+    "visit": "E34-3",
+    "registration": "R34",
+    "session": 3,
+    "present": true
+  },
+  {
+    "visit": "E34-4",
+    "registration": "R34",
+    "session": 4,
+    "present": true
+  },
+  {
+    "visit": "E35-1",
+    "registration": "R35",
+    "session": 1,
+    "present": false
+  },
+  {
+    "visit": "E35-2",
+    "registration": "R35",
+    "session": 2,
+    "present": true
+  },
+  {
+    "visit": "E35-3",
+    "registration": "R35",
+    "session": 3,
+    "present": true
+  },
+  {
+    "visit": "E35-4",
+    "registration": "R35",
+    "session": 4,
+    "present": true
+  },
+  {
+    "visit": "E36-1",
+    "registration": "R36",
+    "session": 1,
+    "present": true
+  },
+  {
+    "visit": "E36-2",
+    "registration": "R36",
+    "session": 2,
+    "present": true
+  },
+  {
+    "visit": "E36-3",
+    "registration": "R36",
+    "session": 3,
+    "present": true
+  },
+  {
+    "visit": "E36-4",
+    "registration": "R36",
+    "session": 4,
+    "present": false
+  },
+  {
+    "visit": "E37-1",
+    "registration": "R37",
+    "session": 1,
+    "present": true
+  },
+  {
+    "visit": "E37-2",
+    "registration": "R37",
+    "session": 2,
+    "present": true
+  },
+  {
+    "visit": "E37-3",
+    "registration": "R37",
+    "session": 3,
+    "present": false
+  },
+  {
+    "visit": "E37-4",
+    "registration": "R37",
+    "session": 4,
+    "present": true
+  },
+  {
+    "visit": "E38-1",
+    "registration": "R38",
+    "session": 1,
+    "present": true
+  },
+  {
+    "visit": "E38-2",
+    "registration": "R38",
+    "session": 2,
+    "present": false
+  },
+  {
+    "visit": "E38-3",
+    "registration": "R38",
+    "session": 3,
+    "present": true
+  },
+  {
+    "visit": "E38-4",
+    "registration": "R38",
+    "session": 4,
+    "present": true
+  },
+  {
+    "visit": "E39-1",
+    "registration": "R39",
+    "session": 1,
+    "present": false
+  },
+  {
+    "visit": "E39-2",
+    "registration": "R39",
+    "session": 2,
+    "present": true
+  },
+  {
+    "visit": "E39-3",
+    "registration": "R39",
+    "session": 3,
+    "present": true
+  },
+  {
+    "visit": "E39-4",
+    "registration": "R39",
+    "session": 4,
+    "present": true
+  }
+]
